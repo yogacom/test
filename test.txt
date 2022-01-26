@@ -1,5 +1,5 @@
 test coba
 -a
 -b
--c
 -d
+-e
